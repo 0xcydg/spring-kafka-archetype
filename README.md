@@ -1,1 +1,1 @@
-# spring-kafka-archetype
+# Spring Boot Demo Application running Apache Kafka 
